@@ -2,8 +2,8 @@
 # Find the day You were born
 
 **Credit** : #[Testbook.com](https://testbook.com/)
-<font size="5"> Formula and Calculation </font>
-<span style="color:yellow">Centuries codes</span>
+### Formula and Calculations
+**Centuries Codes**
 |   Century      |             Code              |
 |----------------|-------------------------------|
 |`1600 -> 1699`  |**6**|
